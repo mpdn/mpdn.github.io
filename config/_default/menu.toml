@@ -14,3 +14,11 @@ url = "https://github.com/mpdn"
 
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/mike-pedersen-1b08a598/"
+
+#[social.params]
+#icon = "brand-linkedin"
